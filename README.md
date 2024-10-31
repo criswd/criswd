@@ -13,3 +13,22 @@ Durante minha jornada acadêmica, desenvolvi uma série de projetos, explorando 
 - 🔐 **CyberSegurança**: Desenvolvimento de soluções de segurança e criptografia de dados
 - 📊 **Machine Learning**: Modelos de **classificação** e **regressão**, usando `Python` e bibliotecas como `sklearn`
 - ⚙️ **C++**: Programação para microcontroladores e projetos de automação
+
+
+------------------------------
+
+👋 **Hello! I'm Cristiano**
+
+💻 **Passionate about Technology**
+
+🎓 **Artificial Intelligence Technology Student at FIAP**
+
+🚀 **Academic Projects**  
+Throughout my academic journey, I have developed several projects, exploring various areas of technology:
+
+- 🐍 **Python** & **R**: Data analysis and Machine Learning models (**Linear Regression**, **Classification**, **Neural Networks**)
+- 🤖 **Arduino & Drones**: Practical applications in robotics and automation
+- 💾 **Databases**: Experience with `MySQL` and `MongoDB`
+- 🔐 **Cybersecurity**: Development of security solutions and data encryption
+- 📊 **Machine Learning**: Models of **classification** and **regression**, using `Python` and libraries such as `sklearn`
+- ⚙️ **C++**: Programming for microcontrollers and automation projects
