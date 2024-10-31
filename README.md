@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 **Olá! Eu sou Cristiano**
 
-<!--
-**criswd/criswd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Apaixonado por Tecnologia**
 
-Here are some ideas to get you started:
+🎓 **Estudante de Tecnologia em Inteligência Artificial na FIAP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos Acadêmicos**  
+Durante minha jornada acadêmica, desenvolvi uma série de projetos, explorando diversas áreas da tecnologia:
+
+- 🐍 **Python** & **R**: Análise de dados e modelos de Machine Learning (**Regressão Linear**, **Classificação**, **Redes Neurais**)
+- 🤖 **Arduino & Drones**: Aplicações práticas em robótica e automação
+- 💾 **Banco de Dados**: Experiência com `MySQL` e `MongoDB`
+- 🔐 **CyberSegurança**: Desenvolvimento de soluções de segurança e criptografia de dados
+- 📊 **Machine Learning**: Modelos de **classificação** e **regressão**, usando `Python` e bibliotecas como `sklearn`
+- ⚙️ **C++**: Programação para microcontroladores e projetos de automação
