@@ -1,34 +1,24 @@
 👋 **Olá! Eu sou Cristiano**
-
-💻 **Apaixonado por Tecnologia**
-
 🎓 **Estudante de Tecnologia em Inteligência Artificial na FIAP**
 
-🚀 **Projetos Acadêmicos**  
-Durante minha jornada acadêmica, desenvolvi uma série de projetos, explorando diversas áreas da tecnologia:
+🔍 Análise de Dados & Machine Learning
+Modelos de classificação, regressão e redes neurais com scikit-learn, PyCaret, TensorFlow, Pandas e NumPy
+Projetos práticos com Python e R, aplicando análise e geração de insights
 
-- 🐍 **Python** & **R**: Análise de dados e modelos de Machine Learning (**Regressão Linear**, **Classificação**, **Redes Neurais**)
-- 🤖 **Arduino & Drones**: Aplicações práticas em robótica e automação
-- 💾 **Banco de Dados**: Experiência com `MySQL` e `MongoDB`
-- 🔐 **CyberSegurança**: Desenvolvimento de soluções de segurança e criptografia de dados
-- 📊 **Machine Learning**: Modelos de **classificação** e **regressão**, usando `Python` e bibliotecas como `sklearn`
-- ⚙️ **C++**: Programação para microcontroladores e projetos de automação
+🤖 Arduino, ESP32 & Automação
+Leitura de sensores e automação com ESP32, Arduino, C++
+Reconhecimento de movimentos com acelerômetro MPU6050 e Machine Learning
 
+💾 Banco de Dados
+Manipulação de dados com MySQL e MongoDB
+Integração com Flask e Streamlit
+
+🔐 Visão Computacional & Cibersegurança
+OCR com OpenCV e Tesseract
+Estudos em criptografia e proteção de dados
+
+🌐 Web com Dados
+Dashboards interativos com Streamlit
+APIs, deploy e aplicações com Flask e GitHub Pages
 
 ------------------------------
-
-👋 **Hello! I'm Cristiano**
-
-💻 **Passionate about Technology**
-
-🎓 **Artificial Intelligence Technology Student at FIAP**
-
-🚀 **Academic Projects**  
-Throughout my academic journey, I have developed several projects, exploring various areas of technology:
-
-- 🐍 **Python** & **R**: Data analysis and Machine Learning models (**Linear Regression**, **Classification**, **Neural Networks**)
-- 🤖 **Arduino & Drones**: Practical applications in robotics and automation
-- 💾 **Databases**: Experience with `MySQL` and `MongoDB`
-- 🔐 **Cybersecurity**: Development of security solutions and data encryption
-- 📊 **Machine Learning**: Models of **classification** and **regression**, using `Python` and libraries such as `sklearn`
-- ⚙️ **C++**: Programming for microcontrollers and automation projects
