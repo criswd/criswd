@@ -6,8 +6,7 @@ Modelos de classificação, regressão e redes neurais com scikit-learn, PyCaret
 Projetos práticos com Python e R, aplicando análise e geração de insights
 
 🤖 Arduino, ESP32 & Automação
-Leitura de sensores e automação com ESP32, Arduino, C++
-Reconhecimento de movimentos com acelerômetro MPU6050 e Machine Learning
+Leitura de sensores e automação com ESP32, Arduino, C++, Machine Learning
 
 💾 Banco de Dados
 Manipulação de dados com MySQL e MongoDB
